@@ -1,17 +1,21 @@
 #container{
-  width: 400px;
-  height: 300px;
+  width: 600px;
+  height: 700px;
   margin: 0 auto;
+  background-color: black;
+
 }
   h1{
     height: 100px;
     width: 300px;
     display: inline;
+    color: white;
   }
   p{
     display: inline-block;
     height: 200px;
-    width: 700px;
+    width: 596px;
+    color: white;
   }
 
 #beach_photos{
@@ -21,7 +25,9 @@
 }
 
   img{
-    display: inline-block;
+    display: inline;
     height: 200px;
-    width: 200px;
+    width: 271px;
+    border: 2px; solid white;
+    margin: 15px; 
   }
