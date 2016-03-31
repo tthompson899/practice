@@ -1,0 +1,27 @@
+#container{
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+}
+  h1{
+    height: 100px;
+    width: 300px;
+    display: inline;
+  }
+  p{
+    display: inline-block;
+    height: 200px;
+    width: 700px;
+  }
+
+#beach_photos{
+  width: 600px;
+  height: 500px;
+  display: inline-block;
+}
+
+  img{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+  }
